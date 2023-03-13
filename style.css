@@ -2,16 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
 
 body {
-
     background-color: #2C3333;
+}
+
+.box {
+    background-color: aliceblue;
     border-width: 100px;
     border-style:solid;
-    border-color:#537FE7;
+    border-color:aliceblue;
+    box-shadow: 15px 15px 50px -8px #2C74B3;
     
+     
 
-    
-    
-    
 }
 
 main#container {
@@ -20,27 +22,18 @@ main#container {
 h1.titulo {
 
     color: #2C74B3;
-    background-color: aliceblue;
-    font-family: 'Tilt Neon', cursive;
-   
-    
-    
-
-    
-    
-
+    font-family: 'Tilt Neon', cursive; 
+     
 }
 
 p.frase {
 
-    color: #2C74B3;
-background-color: aliceblue;
+color: #2C74B3;
+font-size: large;
 }
 
+
 p.autor {
-
     color: #2C74B3;
-    background-color: aliceblue;
-
 }
 
